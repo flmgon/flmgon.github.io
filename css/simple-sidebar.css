@@ -59,6 +59,11 @@
     list-style: none;
 }
 
+.mitt{
+	width: 50%;
+	margin: 0 auto;
+}
+
 .sidebar-nav li {
     text-indent: 20px;
     line-height: 40px;
